@@ -2,11 +2,19 @@
 
 # dnraddress.org
 
+Information on how DNRaddress works
+
+Litecoin's number is 48 (Hex it is 30),  Denarius uses 30 (Hex is 1E) and Bitcoin uses 0, which the hex is also 0.
+
+The PRIVKEY_ADDRESS, which is 128 + the PUBKEY_ADDRESS.  Denarius uses 158 (Hex is 9E).
+
 Denarius Network Version is 0x1E (PUB_KEY 30)
 
-Denarius Private Key Version is 0x95 (158)
+Denarius Private Key Version is 0x9E (158)
 
 Simply download the .html file in this repository to have a secure offline paper wallet generator for Denarius [DNR].
+
+
 
 Original Repository: https://github.com/pointbiz/bitaddress.org (For Bitcoin)
 
