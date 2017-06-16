@@ -4,7 +4,7 @@
 
 Information on how DNRaddress works
 
-Litecoin's number is 48 (Hex it is 30),  Denarius uses 30 (Hex is 1E) and Bitcoin uses 0, which the hex is also 0.
+Litecoin's number is 48 (Hex is 30),  Denarius uses 30 (Hex is 1E) and Bitcoin uses 0, which the hex is also 0.
 
 The PRIVKEY_ADDRESS, which is 128 + the PUBKEY_ADDRESS.  Denarius uses 158 (Hex is 9E).
 
